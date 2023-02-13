@@ -1,0 +1,25 @@
+total 48
+drwxr-xr-x 2 root root 4096 Feb 13 09:30 .
+drwxr-xr-x 6 root root  209 Feb 13 04:31 ..
+-rwxr--r-- 1 root root   32 Feb 13 04:52 0-hello_world
+-rw-r--r-- 1 root root    0 Feb 13 04:32 0-hello_world~
+-rwxr--r-- 1 root root   28 Feb 13 05:40 1-confused_smiley
+-rw-r--r-- 1 root root    0 Feb 13 04:55 1-confused_smiley~
+-rwxr--r-- 1 root root   28 Feb 13 05:53 2-hellofile
+-rw-r--r-- 1 root root    0 Feb 13 05:52 2-hellofile~
+-rwxr--r-- 1 root root   39 Feb 13 06:11 3-twofiles
+-rw-r--r-- 1 root root    0 Feb 13 06:11 3-twofiles~
+-rwxr--r-- 1 root root   33 Feb 13 08:07 4-lastlines
+-rw-r--r-- 1 root root    0 Feb 13 07:59 4-lastlines~
+-rwxr--r-- 1 root root   33 Feb 13 08:10 5-firstlines
+-rw-r--r-- 1 root root    0 Feb 13 08:09 5-firstlines~
+-rwxr--r-- 1 root root   42 Feb 13 08:16 6-third_line
+-rw-r--r-- 1 root root    0 Feb 13 08:14 6-third_line~
+-rwxr--r-- 1 root root   99 Feb 13 09:02 7-file
+-rw-r--r-- 1 root root    0 Feb 13 08:52 7-file~
+-rwxr--r-- 1 root root   37 Feb 13 09:29 8-cwd_state
+-rw-r--r-- 1 root root    0 Feb 13 09:06 8-cwd_state~
+-rw-r--r-- 1 root root   58 Feb 13 04:39 Hello, Word
+-rw-r--r-- 1 root root    0 Feb 13 09:30 ls_cwd_content
+-rw-r--r-- 1 root root    6 Feb 13 04:48 README.md
+-rw-r--r-- 1 root root    0 Feb 13 04:47 README.md~
